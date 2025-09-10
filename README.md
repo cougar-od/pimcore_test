@@ -1,5 +1,3 @@
-Як підняти проект локально.
-
 Setup:
 1. Import Product class from class_Product_export.json
 2. Copy ProductsImportCommand.php and ProductListener.php to your project (they're already at correct path locations)
